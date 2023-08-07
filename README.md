@@ -1,4 +1,9 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://i.etsystatic.com/40462587/r/il/c37bb2/4604473351/il_794xN.4604473351_gtmh.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://i.etsystatic.com/40462587/r/il/c37bb2/4604473351/il_794xN.4604473351_gtmh.jpg)">
+ <img alt="mosaic picture of an astronaut" src="[YOUR-DEFAULT-IMAGE](https://i.pinimg.com/originals/a5/7b/fd/a57bfdd022d228fad6bb17d203ccf3a1.jpg)">
+</picture>
+
 
 <!--
 **brandonawilliams1/brandonawilliams1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
